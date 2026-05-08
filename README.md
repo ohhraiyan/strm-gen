@@ -30,7 +30,7 @@ Each `.strm` file contains the direct HTTP stream URL — Jellyfin plays it stra
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/strm-gen
+git clone https://github.com/ohhraiyan/strm-gen
 cd strm-gen
 chmod +x strm_tui.sh
 ./strm_tui.sh
