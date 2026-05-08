@@ -43,7 +43,6 @@ That's it. The script handles everything else.
 ## 📋 Requirements
 
 - Python 3.8+
-- bash
 - Internet access (for TMDB lookups — optional)
 
 > `requests` and `beautifulsoup4` are installed automatically into a venv on first run.
